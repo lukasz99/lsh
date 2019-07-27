@@ -1,0 +1,2 @@
+Arduino-based hardware sensors.
+
