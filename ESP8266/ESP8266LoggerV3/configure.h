@@ -1,2 +1,0 @@
-
-void setFlag( char* iflag);
