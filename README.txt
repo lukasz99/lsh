@@ -1,1 +1,2 @@
-Arduino sensors
+Arduino-based hardware sensors.
+
